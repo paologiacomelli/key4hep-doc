@@ -19,6 +19,8 @@ A Zotero group with the items listed below can be found [here](https://www.zoter
 
 * [CLIC-Workshop](https://indico.cern.ch/event/850899/) March 2020 (Valentin) 
 
+* [Washingotn DC workshop on future e+e- colliders](https://indico.cern.ch/event/863751/overview)
+
 * [ACAT](https://indico.cern.ch/event/855454/) 2020 (Valentin)
 
 ...
